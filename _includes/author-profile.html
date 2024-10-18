@@ -155,4 +155,9 @@
       {% endif %}      
     </ul>
   </div>
+
+  <div class="author_links">
+    {% if author.thesisurl %}<p><a href="{{ author.thesisurl }}">Link to my thesis</a></p>{% endif %}
+    {% if author.cvurl %}<p><a href="{{ author.cvurl }}">Link to my CV</a></p>{% endif %}
+  </div>
 </div>
