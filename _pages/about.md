@@ -18,7 +18,7 @@ I am currently looking for a postdoctoral position in machine learning applied t
 
 News
 ----
-
+* **November 12, 2024** - We have just released the new versions of our GitHub repositories [multipit](https://github.com/sysbio-curie/multipit) and [deep-multipit](https://github.com/sysbio-curie/deep-multipit) that contain Python tools for multimodal prediction and codes to reproduce the experiments from [our paper](https://doi.org/10.1101/2024.06.27.24309583) currently available on medRxiv.
 * **June 28, 2024** - We have just released our new preprint (main results of my PhD research) entitled *Integration of clinical, pathological, radiological, and transcriptomic data improves the prediction of first-line immunotherapy outcome in metastatic non-small cell lung cancer*. Check it out on [medRxiv](https://doi.org/10.1101/2024.06.27.24309583) !
 * **May 31, 2024** - I successfully defended [my thesis](https://theses.hal.science/tel-04708324), with a jury composed of Chloé-Agathe Azencott, Lodewyk Wessels, John Prior, Fátima Al-Shahrour, Julia Schnabel, Emmanuel Barillot, and Irène Buvat.
 * **May 22, 2024** - Our paper *RadShap: An Explanation Tool for Highlighting the Contributions of Multiple Regions of Interest to the Prediction of Radiomic Models* was accepted for publication in the *Journal of Nuclear Medicine*. Check it out [here](https://doi.org/10.2967/jnumed.124.267434) !
