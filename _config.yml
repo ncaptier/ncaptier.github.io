@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D, Machine learning in healthcare"
   location         : "Paris, France"
-  employer         : "Institut Curie"
+  employer         : "Roche"
   uri              : # URL
-  email            : "nicolas.captier[at]curie.fr" 
+  email            : "nicolas.captier[at]roche.com" 
   cvurl            : "https://ncaptier.github.io/files/cv_captier.pdf"
   thesisurl        : "https://theses.hal.science/tel-04708324"
 
